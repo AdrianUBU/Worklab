@@ -1,0 +1,247 @@
+{
+	"name": "Hoja de eventos 1",
+	"events": [
+		{
+			"eventType": "variable",
+			"name": "Aciertos",
+			"type": "number",
+			"initialValue": "0",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 986319434286408
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 461557279203494
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe0_2_2",
+					"sid": 517748939198688,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 391970191496419,
+					"parameters": {
+						"property-name": "\"width\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 834204794575578,
+					"parameters": {
+						"property-name": "\"width\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 366642534359301,
+					"parameters": {
+						"property-name": "\"width\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 554895655665672,
+					"parameters": {
+						"property-name": "\"height\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 773566641771537,
+					"parameters": {
+						"property-name": "\"height\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 417827597606069,
+					"parameters": {
+						"property-name": "\"height\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 703550193682609,
+					"parameters": {
+						"property-name": "\"background-color\"",
+						"value": "\"white\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 142493075482724,
+					"parameters": {
+						"property-name": "\"background-color\"",
+						"value": "\"white\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 119166089388618,
+					"parameters": {
+						"property-name": "\"background-color\"",
+						"value": "\"white\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 133859735056002,
+					"parameters": {
+						"property-name": "\"border-radius\"",
+						"value": "\"9999px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 162278925519966,
+					"parameters": {
+						"property-name": "\"border-radius\"",
+						"value": "\"9999px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 486030438934417,
+					"parameters": {
+						"property-name": "\"border-radius\"",
+						"value": "\"9999px\""
+					}
+				}
+			],
+			"sid": 221699083435092
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 250364623867873
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe0_2_2",
+					"sid": 916814257377509,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 240284108099529,
+					"parameters": {
+						"seconds": "2.25"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe0_2_2",
+					"sid": 712811586269855,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 262822963489216,
+					"parameters": {
+						"variable": "Aciertos",
+						"value": "1"
+					}
+				},
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 924582719589876,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 470852126149815
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 437200554830818
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 421536032346972,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 546616599520667
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 170123092283326
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 858864300211983,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 268521274804670
+		},
+		{
+			"eventType": "block",
+			"conditions": [],
+			"actions": [],
+			"sid": 632933643735030
+		}
+	],
+	"sid": 643295010177016
+}

@@ -1,0 +1,231 @@
+{
+	"name": "Hoja de eventos 2",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 302345092106759
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe0_2_2",
+					"sid": 353608542185306,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 174775354714374,
+					"parameters": {
+						"property-name": "\"width\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 657853583518611,
+					"parameters": {
+						"property-name": "\"width\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 765539389221983,
+					"parameters": {
+						"property-name": "\"width\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 791269174431691,
+					"parameters": {
+						"property-name": "\"height\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 285352374135660,
+					"parameters": {
+						"property-name": "\"height\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 438088621106446,
+					"parameters": {
+						"property-name": "\"height\"",
+						"value": "\"64px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 713587540431368,
+					"parameters": {
+						"property-name": "\"background-color\"",
+						"value": "\"white\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 765554825955724,
+					"parameters": {
+						"property-name": "\"background-color\"",
+						"value": "\"white\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 970040487350155,
+					"parameters": {
+						"property-name": "\"background-color\"",
+						"value": "\"white\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 580735566384472,
+					"parameters": {
+						"property-name": "\"border-radius\"",
+						"value": "\"9999px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 599270607021533,
+					"parameters": {
+						"property-name": "\"border-radius\"",
+						"value": "\"9999px\""
+					}
+				},
+				{
+					"id": "set-css-style",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 287609371358625,
+					"parameters": {
+						"property-name": "\"border-radius\"",
+						"value": "\"9999px\""
+					}
+				}
+			],
+			"sid": 239489926872022
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Respuesta_Correcta",
+					"sid": 228030054269954
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe0_2_2",
+					"sid": 527522375427011,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 844061325782612,
+					"parameters": {
+						"seconds": "2.25"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe0_2_2",
+					"sid": 846526552022401,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 801009815172988,
+					"parameters": {
+						"variable": "Aciertos",
+						"value": "1"
+					}
+				},
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 607291159314119,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 174382872562164
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Respuesta_Incorrecta_2",
+					"sid": 509769739782783
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 693418222182367,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 176309436591198
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Respuesta_Incorrecta_1",
+					"sid": 864891374984599
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 277477882955490,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 699007227289153
+		}
+	],
+	"sid": 310748689034538
+}
