@@ -21,8 +21,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Correcta",
-					"sid": 174775354714374,
+					"objectClass": "Respuesta_Correcta_E_2",
+					"sid": 924580633680722,
 					"parameters": {
 						"property-name": "\"width\"",
 						"value": "\"64px\""
@@ -30,8 +30,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_1",
-					"sid": 657853583518611,
+					"objectClass": "Respuesta_Incorrecta_E_2_1",
+					"sid": 531190971355981,
 					"parameters": {
 						"property-name": "\"width\"",
 						"value": "\"64px\""
@@ -39,8 +39,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_2",
-					"sid": 765539389221983,
+					"objectClass": "Respuesta_Incorrecta_E_2_2",
+					"sid": 676666804029698,
 					"parameters": {
 						"property-name": "\"width\"",
 						"value": "\"64px\""
@@ -48,8 +48,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Correcta",
-					"sid": 791269174431691,
+					"objectClass": "Respuesta_Correcta_E_2",
+					"sid": 702804527395494,
 					"parameters": {
 						"property-name": "\"height\"",
 						"value": "\"64px\""
@@ -57,8 +57,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_1",
-					"sid": 285352374135660,
+					"objectClass": "Respuesta_Incorrecta_E_2_1",
+					"sid": 406517616193540,
 					"parameters": {
 						"property-name": "\"height\"",
 						"value": "\"64px\""
@@ -66,8 +66,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_2",
-					"sid": 438088621106446,
+					"objectClass": "Respuesta_Incorrecta_E_2_2",
+					"sid": 418161587347507,
 					"parameters": {
 						"property-name": "\"height\"",
 						"value": "\"64px\""
@@ -75,8 +75,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Correcta",
-					"sid": 713587540431368,
+					"objectClass": "Respuesta_Correcta_E_2",
+					"sid": 746101028079855,
 					"parameters": {
 						"property-name": "\"background-color\"",
 						"value": "\"white\""
@@ -84,8 +84,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_1",
-					"sid": 765554825955724,
+					"objectClass": "Respuesta_Incorrecta_E_2_1",
+					"sid": 226510934996056,
 					"parameters": {
 						"property-name": "\"background-color\"",
 						"value": "\"white\""
@@ -93,8 +93,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_2",
-					"sid": 970040487350155,
+					"objectClass": "Respuesta_Incorrecta_E_2_2",
+					"sid": 398801503142611,
 					"parameters": {
 						"property-name": "\"background-color\"",
 						"value": "\"white\""
@@ -102,8 +102,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Correcta",
-					"sid": 580735566384472,
+					"objectClass": "Respuesta_Correcta_E_2",
+					"sid": 826695179446047,
 					"parameters": {
 						"property-name": "\"border-radius\"",
 						"value": "\"9999px\""
@@ -111,8 +111,8 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_1",
-					"sid": 599270607021533,
+					"objectClass": "Respuesta_Incorrecta_E_2_1",
+					"sid": 417624308720513,
 					"parameters": {
 						"property-name": "\"border-radius\"",
 						"value": "\"9999px\""
@@ -120,11 +120,65 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_2",
-					"sid": 287609371358625,
+					"objectClass": "Respuesta_Incorrecta_E_2_2",
+					"sid": 584269483861435,
 					"parameters": {
 						"property-name": "\"border-radius\"",
 						"value": "\"9999px\""
+					}
+				},
+				{
+					"id": "set-position-to-another-object",
+					"objectClass": "Respuesta_Correcta_E_2",
+					"sid": 212568038756089,
+					"parameters": {
+						"object": "Respuesta_Correcta_E_1",
+						"image-point-optional": "0"
+					}
+				},
+				{
+					"id": "set-position-to-another-object",
+					"objectClass": "Respuesta_Incorrecta_E_2_1",
+					"sid": 521664791895676,
+					"parameters": {
+						"object": "Respuesta_Incorrecta_E_1_1",
+						"image-point-optional": "0"
+					}
+				},
+				{
+					"id": "set-position-to-another-object",
+					"objectClass": "Respuesta_Incorrecta_E_2_2",
+					"sid": 289414607137462,
+					"parameters": {
+						"object": "Respuesta_Incorrecta_E_1_2",
+						"image-point-optional": "0"
+					}
+				},
+				{
+					"id": "set-position",
+					"objectClass": "Respuesta_Correcta_E_1",
+					"sid": 782785323981558,
+					"parameters": {
+						"x": "123131",
+						"y": "0312312"
+					}
+				},
+				{
+					"id": "set-position",
+					"objectClass": "Respuesta_Incorrecta_E_1_1",
+					"sid": 445537733743907,
+					"parameters": {
+						"x": "123131",
+						"y": "0312312"
+					}
+				},
+				{
+					"id": "set-position",
+					"objectClass": "Respuesta_Incorrecta_E_1_2",
+					"sid": 662377686406230,
+					"parameters": {
+						"x": "123131",
+						"y": "0312312"
 					}
 				}
 			],
@@ -135,8 +189,8 @@
 			"conditions": [
 				{
 					"id": "on-clicked",
-					"objectClass": "Respuesta_Correcta",
-					"sid": 228030054269954
+					"objectClass": "Respuesta_Incorrecta_E_2_1",
+					"sid": 698630802552544
 				}
 			],
 			"actions": [
@@ -189,8 +243,8 @@
 			"conditions": [
 				{
 					"id": "on-clicked",
-					"objectClass": "Respuesta_Incorrecta_2",
-					"sid": 509769739782783
+					"objectClass": "Respuesta_Correcta_E_2",
+					"sid": 791241861301839
 				}
 			],
 			"actions": [
@@ -210,8 +264,8 @@
 			"conditions": [
 				{
 					"id": "on-clicked",
-					"objectClass": "Respuesta_Incorrecta_1",
-					"sid": 864891374984599
+					"objectClass": "Respuesta_Incorrecta_E_2_2",
+					"sid": 200402435508899
 				}
 			],
 			"actions": [

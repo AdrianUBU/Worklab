@@ -26,10 +26,22 @@
 	"uniqueId": "qnvmrd6l240",
 	"objectTypes": {
 		"items": [
-			"Respuesta_Correcta",
-			"Respuesta_Incorrecta_2",
-			"Respuesta_Incorrecta_1",
-			"pixilframe0_2_2"
+			"Respuesta_Correcta_E_1",
+			"Respuesta_Incorrecta_E_1_2",
+			"Respuesta_Incorrecta_E_1_1",
+			"pixilframe0_2_2",
+			"Respuesta_Correcta_E_2",
+			"Respuesta_Correcta_E_3",
+			"Respuesta_Correcta_E_4",
+			"Respuesta_Correcta_E_5",
+			"Respuesta_Incorrecta_E_2_1",
+			"Respuesta_Incorrecta_E_3_1",
+			"Respuesta_Incorrecta_E_4_1",
+			"Respuesta_Incorrecta_E_5_1",
+			"Respuesta_Incorrecta_E_2_2",
+			"Respuesta_Incorrecta_E_3_2",
+			"Respuesta_Incorrecta_E_4_2",
+			"Respuesta_Incorrecta_E_5_2"
 		],
 		"subfolders": []
 	},

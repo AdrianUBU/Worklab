@@ -2,48 +2,15 @@
 	"name": "Escena 1",
 	"layers": [
 		{
-			"name": "Capa 1",
-			"overriden": 0,
-			"subLayers": [],
-			"instances": [],
-			"sid": 219112617694738,
-			"effectTypes": [],
-			"isInitiallyVisible": true,
-			"isInitiallyInteractive": true,
-			"color": [
-				1,
-				1,
-				1,
-				1
-			],
-			"backgroundColor": [
-				0.3686274509803922,
-				0.3686274509803922,
-				0.3686274509803922,
-				1
-			],
-			"isTransparent": true,
-			"parallaxX": 1,
-			"parallaxY": 1,
-			"scaleRate": 1,
-			"forceOwnTexture": false,
-			"renderingMode": "3d",
-			"drawOrder": "z-order",
-			"useRenderCells": false,
-			"blendMode": "normal",
-			"zElevation": 0,
-			"global": false
-		},
-		{
 			"name": "Capa 0",
 			"overriden": 0,
 			"subLayers": [],
 			"instances": [
 				{
-					"type": "Respuesta_Incorrecta_2",
+					"type": "Respuesta_Incorrecta_E_1_2",
 					"properties": {
 						"type": "button",
-						"text": "",
+						"text": "3",
 						"tooltip": "",
 						"initially-visible": true,
 						"enabled": true,
@@ -56,10 +23,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 400.9851973382899,
-						"y": 320.89275241644884,
-						"width": 23.416282435249286,
-						"height": 22.132104449640224,
+						"x": 424.333891717787,
+						"y": 324.6285435171684,
+						"width": 32,
+						"height": 32,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -71,10 +38,10 @@
 					}
 				},
 				{
-					"type": "Respuesta_Incorrecta_1",
+					"type": "Respuesta_Incorrecta_E_1_1",
 					"properties": {
 						"type": "button",
-						"text": "",
+						"text": "2",
 						"tooltip": "",
 						"initially-visible": true,
 						"enabled": true,
@@ -87,10 +54,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 448.2826421546769,
-						"y": 320.44393231834414,
-						"width": 26.010752458630293,
-						"height": 21.198156674460336,
+						"x": 388.5099845431642,
+						"y": 324.1797234190637,
+						"width": 32,
+						"height": 32,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -114,8 +81,8 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 431,
-						"y": 240,
+						"x": 428,
+						"y": 241,
 						"width": 854,
 						"height": 480,
 						"originX": 0.5,
@@ -131,10 +98,10 @@
 					}
 				},
 				{
-					"type": "Respuesta_Correcta",
+					"type": "Respuesta_Correcta_E_1",
 					"properties": {
 						"type": "button",
-						"text": " ",
+						"text": "1",
 						"tooltip": "",
 						"initially-visible": true,
 						"enabled": true,
@@ -147,10 +114,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 356.92473114748157,
-						"y": 321.93394777517983,
-						"width": 21.482334660069398,
-						"height": 21,
+						"x": 351.65283943627384,
+						"y": 323.85099930652814,
+						"width": 32,
+						"height": 32,
 						"originX": 0,
 						"originY": 0,
 						"color": [

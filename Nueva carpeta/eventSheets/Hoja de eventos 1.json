@@ -31,7 +31,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Correcta",
+					"objectClass": "Respuesta_Correcta_E_1",
 					"sid": 391970191496419,
 					"parameters": {
 						"property-name": "\"width\"",
@@ -40,7 +40,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_1",
+					"objectClass": "Respuesta_Incorrecta_E_1_1",
 					"sid": 834204794575578,
 					"parameters": {
 						"property-name": "\"width\"",
@@ -49,7 +49,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_2",
+					"objectClass": "Respuesta_Incorrecta_E_1_2",
 					"sid": 366642534359301,
 					"parameters": {
 						"property-name": "\"width\"",
@@ -58,7 +58,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Correcta",
+					"objectClass": "Respuesta_Correcta_E_1",
 					"sid": 554895655665672,
 					"parameters": {
 						"property-name": "\"height\"",
@@ -67,7 +67,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_1",
+					"objectClass": "Respuesta_Incorrecta_E_1_1",
 					"sid": 773566641771537,
 					"parameters": {
 						"property-name": "\"height\"",
@@ -76,7 +76,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_2",
+					"objectClass": "Respuesta_Incorrecta_E_1_2",
 					"sid": 417827597606069,
 					"parameters": {
 						"property-name": "\"height\"",
@@ -85,7 +85,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Correcta",
+					"objectClass": "Respuesta_Correcta_E_1",
 					"sid": 703550193682609,
 					"parameters": {
 						"property-name": "\"background-color\"",
@@ -94,7 +94,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_1",
+					"objectClass": "Respuesta_Incorrecta_E_1_1",
 					"sid": 142493075482724,
 					"parameters": {
 						"property-name": "\"background-color\"",
@@ -103,7 +103,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_2",
+					"objectClass": "Respuesta_Incorrecta_E_1_2",
 					"sid": 119166089388618,
 					"parameters": {
 						"property-name": "\"background-color\"",
@@ -112,7 +112,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Correcta",
+					"objectClass": "Respuesta_Correcta_E_1",
 					"sid": 133859735056002,
 					"parameters": {
 						"property-name": "\"border-radius\"",
@@ -121,7 +121,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_1",
+					"objectClass": "Respuesta_Incorrecta_E_1_1",
 					"sid": 162278925519966,
 					"parameters": {
 						"property-name": "\"border-radius\"",
@@ -130,7 +130,7 @@
 				},
 				{
 					"id": "set-css-style",
-					"objectClass": "Respuesta_Incorrecta_2",
+					"objectClass": "Respuesta_Incorrecta_E_1_2",
 					"sid": 486030438934417,
 					"parameters": {
 						"property-name": "\"border-radius\"",
@@ -145,7 +145,7 @@
 			"conditions": [
 				{
 					"id": "on-clicked",
-					"objectClass": "Respuesta_Correcta",
+					"objectClass": "Respuesta_Correcta_E_1",
 					"sid": 250364623867873
 				}
 			],
@@ -199,7 +199,7 @@
 			"conditions": [
 				{
 					"id": "on-clicked",
-					"objectClass": "Respuesta_Incorrecta_2",
+					"objectClass": "Respuesta_Incorrecta_E_1_2",
 					"sid": 437200554830818
 				}
 			],
@@ -220,7 +220,7 @@
 			"conditions": [
 				{
 					"id": "on-clicked",
-					"objectClass": "Respuesta_Incorrecta_1",
+					"objectClass": "Respuesta_Incorrecta_E_1_1",
 					"sid": 170123092283326
 				}
 			],
@@ -235,12 +235,6 @@
 				}
 			],
 			"sid": 268521274804670
-		},
-		{
-			"eventType": "block",
-			"conditions": [],
-			"actions": [],
-			"sid": 632933643735030
 		}
 	],
 	"sid": 643295010177016

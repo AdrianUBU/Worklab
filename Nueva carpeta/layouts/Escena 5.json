@@ -7,7 +7,7 @@
 			"subLayers": [],
 			"instances": [
 				{
-					"type": "Respuesta_Incorrecta_2",
+					"type": "Respuesta_Incorrecta_E_1_2",
 					"properties": {
 						"type": "button",
 						"text": "",
@@ -38,7 +38,7 @@
 					}
 				},
 				{
-					"type": "Respuesta_Incorrecta_1",
+					"type": "Respuesta_Incorrecta_E_1_1",
 					"properties": {
 						"type": "button",
 						"text": "",
@@ -98,7 +98,7 @@
 					}
 				},
 				{
-					"type": "Respuesta_Correcta",
+					"type": "Respuesta_Correcta_E_1",
 					"properties": {
 						"type": "button",
 						"text": " ",
