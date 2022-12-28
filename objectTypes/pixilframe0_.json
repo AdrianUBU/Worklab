@@ -1,0 +1,37 @@
+{
+	"name": "pixilframe0_",
+	"plugin-id": "Sprite",
+	"sid": 346781625895250,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1642,
+						"height": 222,
+						"originX": 0.8775883069427527,
+						"originY": 4.238738738738738,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3310042,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 156143047217423,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

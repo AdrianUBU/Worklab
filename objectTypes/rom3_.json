@@ -1,0 +1,37 @@
+{
+	"name": "rom3_",
+	"plugin-id": "Sprite",
+	"sid": 450215255499545,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 2000,
+						"height": 2000,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8037305,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 918281287580762,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

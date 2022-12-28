@@ -1,0 +1,37 @@
+{
+	"name": "ganado1",
+	"plugin-id": "Sprite",
+	"sid": 942749803074984,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 2762,
+						"height": 382,
+						"originX": 0.5,
+						"originY": -1.5157068062827226,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 1316510,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 416590412647966,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

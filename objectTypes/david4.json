@@ -1,0 +1,37 @@
+{
+	"name": "david4",
+	"plugin-id": "Sprite",
+	"sid": 410928270266715,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 3000,
+						"height": 2000,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6354144,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 989844539109246,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

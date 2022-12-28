@@ -1,0 +1,37 @@
+{
+	"name": "pixilframe_boton_2",
+	"plugin-id": "Sprite",
+	"sid": 977003629816446,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 442,
+						"height": 442,
+						"originX": 1.2692307692307692,
+						"originY": 1.3144796380090498,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2789987,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 706288033425283,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"name": "m2_3",
+	"plugin-id": "Sprite",
+	"sid": 662442648574904,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1601,
+						"height": 597,
+						"originX": 0.8432229856339788,
+						"originY": 1.7755443886097153,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9284851,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 271567820605515,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

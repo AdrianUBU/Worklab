@@ -1,0 +1,37 @@
+{
+	"name": "firmaPorSiMeLoRoban",
+	"plugin-id": "Sprite",
+	"sid": 561854618758327,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 802,
+						"height": 102,
+						"originX": 1.672069825436409,
+						"originY": -7.833333333333333,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9237983,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 619271290001076,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

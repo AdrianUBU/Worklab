@@ -1,0 +1,37 @@
+{
+	"name": "texto5_2",
+	"plugin-id": "Sprite",
+	"sid": 900978451452205,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1582,
+						"height": 422,
+						"originX": 0.37989886219974717,
+						"originY": 1.661137440758294,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3195048,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 841087029275159,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

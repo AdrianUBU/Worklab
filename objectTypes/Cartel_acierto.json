@@ -1,0 +1,37 @@
+{
+	"name": "Cartel_acierto",
+	"plugin-id": "Sprite",
+	"sid": 895808835291001,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1782,
+						"height": 702,
+						"originX": 0.4158249158249158,
+						"originY": 1.2834757834757835,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6293306,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 890185125391979,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
