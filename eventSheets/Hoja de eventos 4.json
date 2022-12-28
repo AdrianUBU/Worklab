@@ -1,0 +1,393 @@
+{
+	"name": "Hoja de eventos 4",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 537576336810176
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "Cartel_acierto",
+					"sid": 585049151471467,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 989470404569203,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ram2",
+					"sid": 203656807653630,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ram1_2",
+					"sid": 961915602929121,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ram2_2",
+					"sid": 387427699912728,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_1",
+					"sid": 549018544949525,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_2",
+					"sid": 325143312831182,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_3",
+					"sid": 594493547058900,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 852583212962497,
+					"parameters": {
+						"seconds": "1"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_1",
+					"sid": 944036659818994,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 404562252830384,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_1",
+					"sid": 877139534022382,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_2",
+					"sid": 625409470748132,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 660880382127243,
+					"parameters": {
+						"seconds": "4"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_2",
+					"sid": 705937469268700,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_3",
+					"sid": 430632240878599,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 168624406414078,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_3",
+					"sid": 854221501699250,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_4",
+					"sid": 376762268261516,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 527326129037798,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_4",
+					"sid": 486737946880657,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 566597580479534,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 974260588235930,
+					"parameters": {
+						"seconds": "1"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_5",
+					"sid": 904752841151933,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 485999804421695,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_5",
+					"sid": 504730235167483,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto4_6",
+					"sid": 151626083748884,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 669199338686077,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ram2",
+					"sid": 413513161772633,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ram1_2",
+					"sid": 569851116730348,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ram2_2",
+					"sid": 266564640793545,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_1",
+					"sid": 683935933887565,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_2",
+					"sid": 146200099693958,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_3",
+					"sid": 497703103147756,
+					"parameters": {
+						"opacity": "100"
+					}
+				}
+			],
+			"sid": 504754028889918
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 579874100865043,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe_boton_2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "Cartel_acierto",
+					"sid": 834129052001256,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 221824139584480,
+					"parameters": {
+						"seconds": "2.25"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "Cartel_acierto",
+					"sid": 520743542390141,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 157347387847878,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 372029659244225
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 527863880628349,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe_boton_1"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 900593401094296,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 502860760304478
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 334964004818038,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe_boton_3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 910672580737165,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 583751297201392
+		}
+	],
+	"sid": 707468006914734
+}

@@ -1,0 +1,377 @@
+{
+	"name": "Hoja de eventos 2",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 101002223913549
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "Cartel_acierto",
+					"sid": 299582004929472,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 785702789174290,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_1",
+					"sid": 211235061769460,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_2",
+					"sid": 918019015940832,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_3",
+					"sid": 596097206794977,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "rom1_2",
+					"sid": 500266177727758,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "rom2_2",
+					"sid": 944736668571075,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "rom3_2",
+					"sid": 176805860097035,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 114274026154030,
+					"parameters": {
+						"seconds": "1"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto2_1",
+					"sid": 125716019961707,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 803322815771754,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto2_1",
+					"sid": 510658268760248,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto2_2",
+					"sid": 349774165611640,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 410301958196182,
+					"parameters": {
+						"seconds": "4"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto2_2",
+					"sid": 903300100895565,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto2_3",
+					"sid": 957376155959918,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 208133881733130,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto2_3",
+					"sid": 619859577301302,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 573447945092558,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 676780270166463,
+					"parameters": {
+						"seconds": "1"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto2_4",
+					"sid": 505440805270191,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 260829746826462,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto2_4",
+					"sid": 604438829421469,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto2_5",
+					"sid": 204594723352883,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 709136003498474,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "rom1_2",
+					"sid": 979377424331467,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "rom2_2",
+					"sid": 441609605923820,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "rom3_2",
+					"sid": 628763685222978,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_1",
+					"sid": 363900794861094,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_2",
+					"sid": 455585160157135,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_3",
+					"sid": 164543989295532,
+					"parameters": {
+						"opacity": "100"
+					}
+				}
+			],
+			"sid": 172183173519350
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 375949057790887,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe_boton_3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "Cartel_acierto",
+					"sid": 525923419679659,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 546446755490794,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "Cartel_acierto",
+					"sid": 457093134806049,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 674798644935762,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 359972044756064,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 569255588147075
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 131893826319958,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe_boton_2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 283049307260280,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 829602720261752
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 290407980331825,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe_boton_1"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 936495930425475,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 640841912833639
+		}
+	],
+	"sid": 310748689034538
+}

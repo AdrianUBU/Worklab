@@ -1,0 +1,433 @@
+{
+	"name": "Hoja de eventos 5",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 878187500557451
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "Cartel_acierto",
+					"sid": 221573704371400,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 111237465652902,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "cpu_",
+					"sid": 763885335842795,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "fuenteDeAlimentación",
+					"sid": 659642250557703,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "gráfica",
+					"sid": 686918289327884,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_1",
+					"sid": 760477648476070,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_2",
+					"sid": 326215159219019,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_3",
+					"sid": 142781652624597,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 354863833259745,
+					"parameters": {
+						"seconds": "1"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_1",
+					"sid": 795654859493869,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 207083702095677,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_1",
+					"sid": 281421787796509,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_2",
+					"sid": 749166641222451,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 594784060765526,
+					"parameters": {
+						"seconds": "4"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_2",
+					"sid": 848322518087265,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_3",
+					"sid": 971496866365660,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 858725668937746,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_3",
+					"sid": 344457202766514,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_4",
+					"sid": 186288004396088,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 821000985493294,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_4",
+					"sid": 712364290800693,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 934527973314474,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 688461493892382,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_5",
+					"sid": 235642853116070,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 947436764799541,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_5",
+					"sid": 653366724234897,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_6",
+					"sid": 412296271750551,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 406458462651093,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_6",
+					"sid": 640739531343024,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_7",
+					"sid": 869777945225407,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 840069026800270,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "cpu_",
+					"sid": 273515442017177,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "fuenteDeAlimentación",
+					"sid": 139783280938626,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "gráfica",
+					"sid": 147340301192321,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_1",
+					"sid": 147154083968169,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_2",
+					"sid": 217454024814342,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe_boton_3",
+					"sid": 553375468360032,
+					"parameters": {
+						"opacity": "100"
+					}
+				}
+			],
+			"sid": 374319996139091
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 656404651700204,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe_boton_1"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "Cartel_acierto",
+					"sid": 206252808527144,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_7",
+					"sid": 483892250620397,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "texto5_8",
+					"sid": 140553675787602,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 170834920360785,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "Cartel_acierto",
+					"sid": 520570381025286,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 764963449152733,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 471734822473811
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 276914977605043,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe_boton_2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 508152541984441,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 966701983086020
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 413411882766742,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe_boton_3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 402786679380077,
+					"parameters": {
+						"layout": "\"GAME OVER\""
+					}
+				}
+			],
+			"sid": 455244103402707
+		}
+	],
+	"sid": 168920237969162
+}

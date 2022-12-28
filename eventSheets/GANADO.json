@@ -1,0 +1,115 @@
+{
+	"name": "GANADO",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 842610389180992
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "ganado3",
+					"sid": 949311398404978,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 612916921807718,
+					"parameters": {
+						"seconds": "1"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ganado1",
+					"sid": 352716607901071,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 166874289831162,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ganado1",
+					"sid": 697510191808887,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ganado2",
+					"sid": 761684914981794,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 408812147804889,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ganado2",
+					"sid": 486155118037499,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 448469125081793,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "ganado3",
+					"sid": 322934938913927,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 405712529694081,
+					"parameters": {
+						"seconds": "7"
+					}
+				},
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 399075938297917,
+					"parameters": {
+						"layout": "\"menú\""
+					}
+				}
+			],
+			"sid": 416857322957601
+		}
+	],
+	"sid": 642975718743925
+}

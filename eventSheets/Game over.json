@@ -1,0 +1,99 @@
+{
+	"name": "Game over",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 961187390302757
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 563790009112665,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 282251036889012,
+					"parameters": {
+						"seconds": "1"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 704919055220798,
+					"parameters": {
+						"seconds": "1"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 802696013571513,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "textgameover",
+					"sid": 945059615459523,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 479982669844096,
+					"parameters": {
+						"seconds": "2"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "pixilframe",
+					"sid": 280854408280853,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "textgameover",
+					"sid": 391184154779964,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 612437102492306,
+					"parameters": {
+						"seconds": "7"
+					}
+				},
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 172246735766451,
+					"parameters": {
+						"layout": "\"menú\""
+					}
+				}
+			],
+			"sid": 374026091267216
+		}
+	],
+	"sid": 861745164980008
+}

@@ -1,0 +1,32 @@
+{
+	"name": "menú",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 204819689784208,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "pixilframe8"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 521192131684795,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 254790587964807
+		}
+	],
+	"sid": 570634460172718
+}
